@@ -1,0 +1,10 @@
+# Site settings
+title: Igor's Website
+email: iptitsyn@albany.edu
+description: UAlbany Student
+url: 1igorp.github.io
+github_username: 1Igorp
+
+# Build settings
+markdown: kramdown
+permalink: pretty
