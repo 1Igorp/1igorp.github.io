@@ -27,10 +27,10 @@ layout: post
 
 <img src="http://i.imgur.com/v1gUYem.gif" alt="cat gif">
 
-<pre><code>
+```<code>
 #header h1 a { 
 	display: block; 
 	width: 300px; 
 	height: 80px; 
 }
-</code></pre>
+</code>
