@@ -1,5 +1,5 @@
 ---
-title: My first post
+title: Markdown
 layout: post
 ---
 
