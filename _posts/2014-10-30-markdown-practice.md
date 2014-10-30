@@ -20,7 +20,7 @@ layout: post
 
 ###Header Level 3
 
-*
+
    1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
    2. Aliquam tincidunt mauris eu risus.</li>
 
