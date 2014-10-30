@@ -20,10 +20,10 @@ layout: post
 
 ###Header Level 3
 
-<ul>
+*
    1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
    2. Aliquam tincidunt mauris eu risus.</li>
-</ul>
+
 
 <img src="http://i.imgur.com/v1gUYem.gif" alt="cat gif">
 
